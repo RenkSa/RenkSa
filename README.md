@@ -1,4 +1,4 @@
-# Olá, me chamo Renk Willy Sá! :happy:
+# Olá, me chamo Renk Willy Sá!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RenkSa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -8,7 +8,7 @@
 
 ### Se conecte comigo:
 
-[![https://www.linkedin.com/in/renk-willy-da-mota-sa-32286320b/](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/renk-willy-da-mota-sa-32286320b/) 
+[![https://www.linkedin.com/in/renk-willy-da-mota-sa-32286320b/](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg width="200")](https://www.linkedin.com/in/renk-willy-da-mota-sa-32286320b/)]
 
 ### Linguagens e ferramentas:
 

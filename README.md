@@ -1,23 +1,39 @@
-# Olá, me chamo Renk Willy Sá!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RenkSa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+# <h1 align="center">Olá, me chamo Renk Willy Sá!<h1>
 
-
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=RenkSa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy">
+</div>
+<br><br>
 
 - 📫 E-mail **[renkwiii@outlook.com](mailto:renkwiii@outlook.com)**
-
+<br><br>
+  
 ### Se conecte comigo:
 
-https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BImPfSGObQg%2BF2%2F6l%2FUuopA%3D%3D
-
+<div align="center">
+<a href="https://www.linkedin.com/in/renk-willy-da-mota-sa-32286320b/"><img src="https://user-images.githubusercontent.com/82468145/171624832-05061d5c-f306-4364-9e41-034de4f4fd33.png" width="200"></a>
+</div>
+  
 ### Linguagens e ferramentas:
+ <br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/82468145/171626173-70861cb5-968d-4a5f-b456-59c275c44e63.png" width="100">
+<img src="https://user-images.githubusercontent.com/82468145/171630010-4d41c2d0-3988-4193-a1cd-fa42003b9bc2.png" width="100">
+<img src="https://user-images.githubusercontent.com/82468145/171630175-7a60cf0c-356b-4e76-9a4a-80988d4ed8db.png" width="100">
+<img src="https://user-images.githubusercontent.com/82468145/171630378-a6879bf9-da1b-4b41-bec9-6c069279bf01.png" width="100">
+<img src="https://user-images.githubusercontent.com/82468145/171631046-150cbe6d-7d4f-46c5-97d7-b6a66ddc8e7f.png" width="100">
+<img src="https://user-images.githubusercontent.com/82468145/171630497-34d275ff-2aec-47e0-bd18-4ed09e668696.png" width="100">
+</div>
 
-[![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) [![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) ](https://www.w3.org/html/)[![java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) ](https://www.java.com/)[![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) (https://developer.mozilla.org/en-US/docs/Web/JavaScript)[![photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg) ](https://www.photoshop.com/en)[ ][![selenium](https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg) ](https://www.selenium.dev/)[![bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg) ](https://getbootstrap.com/)
+<br><br>
+  
+### Github Stats:
+  <br>
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenkSa&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
 
+<img src="https://github-readme-stats.vercel.app/api?username=RenkSa&show_icons=true&theme=dark">
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenkSa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenkSa&show_icons=true&theme=dark)
-
-
+  </div>

@@ -8,7 +8,7 @@
 
 ### Se conecte comigo:
 
-[[![https://www.linkedin.com/in/renk-willy-da-mota-sa-32286320b/](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg width="200")](https://www.linkedin.com/in/renk-willy-da-mota-sa-32286320b/)]](https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BImPfSGObQg%2BF2%2F6l%2FUuopA%3D%3D)
+https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BImPfSGObQg%2BF2%2F6l%2FUuopA%3D%3D
 
 ### Linguagens e ferramentas:
 

@@ -18,7 +18,7 @@
 ### Se conecte comigo:
 
 <div align="center">
-<a href="https://www.linkedin.com/in/renk-willy-da-mota-sa-32286320b/"><img src="https://user-images.githubusercontent.com/82468145/171624832-05061d5c-f306-4364-9e41-034de4f4fd33.png" width="200"></a>
+<a href="https://www.linkedin.com/in/renk-willy-da-mota-sa/"><img src="https://user-images.githubusercontent.com/82468145/171624832-05061d5c-f306-4364-9e41-034de4f4fd33.png" width="200"></a>
 </div>
   
 ### Linguagens e ferramentas:

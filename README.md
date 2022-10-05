@@ -48,4 +48,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenkSa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
    <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Formandodev/count.svg" /></p>
+   
    ![snake gif](https://github.com/RenkSa/RenkSa/blob/output/github-contribution-grid-snake.svg)

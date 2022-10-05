@@ -13,7 +13,6 @@
 <br><br>
 
 - 📫 E-mail **[renkwiii@outlook.com](mailto:renkwiii@outlook.com)**
-<br><br>
   
 ## Se conecte comigo:
 

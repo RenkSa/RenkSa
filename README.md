@@ -38,7 +38,7 @@
   <br>
 <div align="center">
   
-<img height="180em" width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenkSa&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
+<img height="190em" width="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenkSa&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenkSa&show_icons=true&theme=dark">
 

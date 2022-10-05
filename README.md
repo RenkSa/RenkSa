@@ -15,13 +15,13 @@
 - 📫 E-mail **[renkwiii@outlook.com](mailto:renkwiii@outlook.com)**
 <br><br>
   
-### Se conecte comigo:
+## Se conecte comigo:
 
 <div align="center">
 <a href="https://www.linkedin.com/in/renk-willy-da-mota-sa/"><img src="https://user-images.githubusercontent.com/82468145/171624832-05061d5c-f306-4364-9e41-034de4f4fd33.png" width="150"></a>
 </div>
   
-### Linguagens e ferramentas:
+## Linguagens e ferramentas:
  <br>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/82468145/171626173-70861cb5-968d-4a5f-b456-59c275c44e63.png" width="100">
@@ -34,7 +34,7 @@
 
 <br><br>
   
-### Github Stats:
+## Github Stats:
   <br>
 <div align="center">
   

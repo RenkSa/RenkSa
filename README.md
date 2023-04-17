@@ -56,5 +56,5 @@
    
    <div align="center">
     <a href="https://www.webcontadores.com" title="contador de visitas para site"><img src="https://counter2.optistats.ovh/private/webcontadores.php?c=qwzfd77h8apjbu78xtcbdbrfhebd53aw" border="0" title="contador de visitas para site" alt="contador de visitas para site"></a>
-   
+     <p style="color:green;background:black;margin:3px;">Visitante</p>
    </div>

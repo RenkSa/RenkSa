@@ -47,6 +47,5 @@
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=RenkSa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenkSa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-   <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Formandodev/count.svg" /></p>
-   
+  <div id="sfcqwzfd77h8apjbu78xtcbdbrfhebd53aw"></div><script type="text/javascript" src="https://counter2.optistats.ovh/private/counter.js?c=qwzfd77h8apjbu78xtcbdbrfhebd53aw&down=async" async></script><br><a href="https://www.webcontadores.com">contador de visitas para site</a><noscript><a href="https://www.webcontadores.com" title="contador de visitas para site"><img src="https://counter2.optistats.ovh/private/webcontadores.php?c=qwzfd77h8apjbu78xtcbdbrfhebd53aw" border="0" title="contador de visitas para site" alt="contador de visitas para site"></a></noscript>
    ![snake gif](https://github.com/RenkSa/RenkSa/blob/output/github-contribution-grid-snake.svg)
